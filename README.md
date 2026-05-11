@@ -47,7 +47,7 @@ Gunakan kombinasi tombol berikut untuk mendominasi papan skor:
 | :--- | :--- |
 | `←` / `A` | Gerak Kiri |
 | `→` / `D` | Gerak Kanan |
-| `Esc` | Keluar Game |
+| `Esc` | start Game |
 
 ---
 
