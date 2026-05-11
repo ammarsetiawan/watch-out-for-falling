@@ -1,7 +1,7 @@
 # 🎮 Watch Out for Falling!
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Watch+Out+for+Falling+Action+Banner" alt="Game Banner" />
+  <img src="/art/playerGrey_up2.png" alt="Game Banner" />
 </p>
 
 <p align="center">
