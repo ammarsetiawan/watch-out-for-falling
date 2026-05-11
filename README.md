@@ -75,7 +75,7 @@ Punya ide fitur baru atau menemukan bug? Mari berkolaborasi!
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh <b>Ammar Setiawan</b>
+  Dibuat dengan  oleh <b>Ammar Setiawan</b>
   <br>
   <a href="https://github.com/ammarsetiawan">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub" />
