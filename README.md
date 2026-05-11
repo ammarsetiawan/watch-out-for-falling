@@ -14,7 +14,7 @@
 ---
 
 ## ⚡ Apa Itu "Watch Out for Falling"?
-Uji refleksmu di dunia yang sedang runtuh! **Watch Out for Falling** adalah game bertempo cepat di mana satu-satunya tujuanmu adalah bertahan hidup dari benda-benda yang jatuh dari langit. Semakin lama kamu bertahan, semakin gila tantangannya!
+Uji refleksmu di dunia yang sedang runtuh! **Watch Out for Falling** adalah game bertempo cepat di mana satu-satunya tujuanmu adalah bertahan hidup dari musuh musuh yang mencoba menangkap mu. Semakin lama kamu bertahan, semakin gila tantangannya!
 
 > "Mudah dimainkan, sulit untuk dikuasai."
 
